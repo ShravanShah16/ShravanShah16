@@ -20,7 +20,7 @@ GOVERNMENT ENGINEERING COLLEGE, MODASA, GUJARAT
 
 **Diploma in Information Technology**  
 R. C. Technical, SOLA, AHMEDABAD  
-*Completed in 2023*
+*Completed in 2020*
 
 ---
 
