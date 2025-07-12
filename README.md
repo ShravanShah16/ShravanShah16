@@ -15,12 +15,12 @@ I'm an iOS developer with hands-on experience developing apps using **Xcode**, *
 ## 🎓 Education
 
 **B.E. in Information Technology**  
-[GOVERNMENT ENGINEERING COLLEGE], MODASA,GUJRAT  
+GOVERNMENT ENGINEERING COLLEGE, MODASA, GUJARAT  
 *Graduated in 2023*
 
 **Diploma in Information Technology**  
-[R. C. Technical],SOLA,AHMEDABAD 
-*Complete in 2020*
+R. C. Technical, SOLA, AHMEDABAD  
+*Completed in 2023*
 
 ---
 
